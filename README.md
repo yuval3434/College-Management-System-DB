@@ -66,10 +66,3 @@ public double showAverageOfSalariesByDepart(String departmentName) throws SQLExc
    * Update the DB connection string, username, and password in the Utils.java (or your DB Manager class).  
 4. **Run the Application:**  
    * Run Main.java in your preferred IDE (IntelliJ / Eclipse).
-
-## **👤 Author**
-
-**\[Your Name Here\]**
-
-* LinkedIn: \[Your LinkedIn URL\]  
-* GitHub: [@YourUsername](https://github.com/YourUsername)
