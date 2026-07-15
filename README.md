@@ -57,7 +57,7 @@ public double showAverageOfSalariesByDepart(String departmentName) throws SQLExc
 ## **⚙️ Setup and Installation**
 
 1. **Clone the repository:**  
-   git clone https://github.com/YourUsername/College-Management-System-DB.git
+   git clone https://github.com/yuval3434/College-Management-System-DB.git
 
 2. **Database Setup:**  
    * Open pgAdmin or your preferred PostgreSQL client.  
